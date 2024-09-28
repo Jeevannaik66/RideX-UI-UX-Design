@@ -40,5 +40,5 @@ The **RideX** UI/UX design represents my skills in creating an intuitive interfa
 
 ## Prototyping Link
 
--Feel free to view the prototype of the RideX design [here](#) (insert your actual prototyping link).
+- Feel free to view the prototype of the RideX design [here](#) (insert your actual prototyping link).
 
