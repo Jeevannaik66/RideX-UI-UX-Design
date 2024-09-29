@@ -40,5 +40,6 @@ The **RideX** UI/UX design represents my skills in creating an intuitive interfa
 
 ## Prototyping Link
 
-- Feel free to view the prototype of the RideX design [(https://www.figma.com/proto/LlaVfMUpInACprAM0XHQ0r/Ride%2Bshring%2Bapp?page-id=46%3A678&node-id=46-10659&node-type=frame&viewport=-196%2C-164%2C0.35&t=sanGZ4LVNddQYa05-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=46%3A10659)](#) 
+-Feel free to view the prototype of the RideX design [here]([https://www.figma.com/proto/abc123](https://www.figma.com/proto/LlaVfMUpInACprAM0XHQ0r/Ride%2Bshring%2Bapp?page-id=46%3A678&node-id=46-10659&node-type=frame&viewport=-196%2C-164%2C0.35&t=sanGZ4LVNddQYa05-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=46%3A10659)).
+
 
