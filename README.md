@@ -6,7 +6,6 @@ Welcome to the **RideX** app UI/UX design repository! This project showcases my 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Prototyping Link](#prototyping-link)
@@ -23,10 +22,6 @@ The **RideX** UI/UX design represents my skills in creating an intuitive interfa
 - **User Profile Management:** Easy management of user profiles and preferences.
 - **Rating and Feedback System:** Allow users to rate rides and provide feedback.
 - **Responsive Design:** Optimized for various devices to ensure a consistent experience.
-
-## Screenshots
-
-*Include screenshots of key screens here, such as the Home Screen, Ride Booking Interface, Driver Dashboard, and Profile Management.*
 
 ## Usage
 
